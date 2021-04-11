@@ -5,8 +5,8 @@ This project will initiate 5 Assignment Web Service instance, 1 NGINX docker ins
 ## Setup Guide
 1. Clone the repository
 2. Install Docker support in your machine. For Windows 10 Home users, remember to Enable the WSL 2 feature on Windows. (Reference: https://docs.docker.com/docker-for-windows/install/)
-3. Open command prompt and navigate to directory
-4. Enter following command:
+3. Open command prompt and navigate to cloned directory
+4. In command prompt, enter following command:
 
    ***docker-compose up --build --remove-orphans --detach***
 
